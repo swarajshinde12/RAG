@@ -1,0 +1,35 @@
+Machine Learning Notes
+Machine Learning (ML) is a subset of artificial intelligence that enables computers to learn from data
+and improve performance without being explicitly programmed.
+Types of Machine Learning:
+1. Supervised Learning – uses labeled data to train models.
+2. Unsupervised Learning – finds hidden patterns in unlabeled data.
+3. Reinforcement Learning – an agent learns by interacting with an environment and receiving rewards.
+Neural Networks:
+Neural networks are inspired by the human brain. They consist of layers of interconnected nodes
+(neurons). Each neuron applies weights and
+----chunk-end----
+Networks:
+Neural networks are inspired by the human brain. They consist of layers of interconnected nodes
+(neurons). Each neuron applies weights and an activation function.
+Gradient Descent:
+Gradient Descent is an optimization algorithm that adjusts model parameters to minimize loss. It
+repeatedly moves in the direction of the steepest descent of the loss function.
+Model Evaluation:
+Common metrics:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+Dataset Split:
+Data should be split into:
+- Training Set
+- Validation Set
+- Test Set
+----chunk-end----
+set Split:
+Data should be split into:
+- Training Set
+- Validation Set
+- Test Set
+----chunk-end----
